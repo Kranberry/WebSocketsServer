@@ -1,0 +1,7 @@
+﻿"D:\C#_Projects\SuperAmazingClient\SuperAmazingClient\obj\x64\Release\ilc\in\SuperAmazingClient.exe"
+/Lib:"D:\C#_Projects\SuperAmazingClient\SuperAmazingClient\obj\x64\Release\ilc\in"
+/Lib:"C:\Users\Jesus Kvistus\.nuget\packages\runtime.win10-x64.microsoft.net.native.compiler\2.2.8-rel-28605-00\tools\x64\ilc\lib\Private"
+/WinMD:"D:\C#_Projects\SuperAmazingClient\SuperAmazingClient\obj\x64\Release\ilc\in\WinMetadata\Windows.winmd"
+/VSTelemetrySessionSettings:"{"IsOptedIn":true,"HostName":"Dev14","AppInsightsInstrumentationKey":"f144292e-e3b2-4011-ac90-20e5c03fbce5","AsimovInstrumentationKey":"AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70","AppId":1001,"UserId":"0870bd61-ce0f-401a-bdc0-644bb8b1ff81","Id":"6c6a7fb7-6f5c-4ef4-b419-4dc672db47bc","ProcessStartTime":637510020576523198}"
+/RdXmlPath:"C:\Users\Jesus Kvistus\.nuget\packages\microsoft.net.native.compiler\2.2.8-rel-28605-00\tools\LibraryXML"
+/RunOnlyPreDR

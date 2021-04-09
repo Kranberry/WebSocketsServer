@@ -1,0 +1,2 @@
+MainPackage=D:\C#_Projects\SuperAmazingClient\SuperAmazingClient\bin\ARM\Release\SuperAmazingClient_1.0.0.0_ARM.msix
+SymbolPackage=D:\C#_Projects\SuperAmazingClient\SuperAmazingClient\obj\ARM\Release\Symbols\SuperAmazingClient_1.0.0.0_ARM.appxsym

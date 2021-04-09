@@ -1,0 +1,16 @@
+﻿/osver:6.2
+/appcontainer
+"/runtime:mrt100_app"
+/eh:clr
+/pdb
+"/nativeLink:C:\Users\Jesus Kvistus\.nuget\packages\runtime.win10-arm.microsoft.net.native.compiler\2.2.8-rel-28605-00\tools\ARM\ilc\lib\Native\vmath.lib"
+/customImports
+/methodBodyFolding
+"D:\C#_Projects\SuperAmazingClient\SuperAmazingClient\obj\ARM\Release\ilc\intermediate\MDIL\SuperAmazingClient.mdilexe"
+"/i:D:\C#_Projects\SuperAmazingClient\SuperAmazingClient\obj\ARM\Release\ilc\intermediate\MDIL"
+"/out:D:\C#_Projects\SuperAmazingClient\SuperAmazingClient\obj\ARM\Release\ilc\intermediate\Native\SuperAmazingClient.exe"
+"/pdbAltPath:D:\C#_Projects\SuperAmazingClient\SuperAmazingClient\bin\ARM\Release\ilc"
+"/res:D:\C#_Projects\SuperAmazingClient\SuperAmazingClient\obj\ARM\Release\ilc\intermediate\Native.res"
+"/i:C:\Users\Jesus Kvistus\.nuget\packages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.2.7-rel-28605-00\tools\SharedLibrary\ret\MDIL"
+/shimexe
+"/classlib:SharedLibrary"
